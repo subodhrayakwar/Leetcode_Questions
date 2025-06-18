@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
@@ -14,5 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Hash Table
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
