@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2249-count-the-hidden-sequences) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
