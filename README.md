@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Enumeration
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Counting
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
