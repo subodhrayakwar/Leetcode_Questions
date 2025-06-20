@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
