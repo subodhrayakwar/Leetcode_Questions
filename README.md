@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -101,4 +103,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
