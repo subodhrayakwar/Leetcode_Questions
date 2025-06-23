@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2249-count-the-hidden-sequences) |
+| [2262-solving-questions-with-brainpower](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
+| [2262-solving-questions-with-brainpower](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
