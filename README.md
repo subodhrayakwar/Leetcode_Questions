@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
+| [2665-minimum-time-to-repair-cars](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2665-minimum-time-to-repair-cars](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
