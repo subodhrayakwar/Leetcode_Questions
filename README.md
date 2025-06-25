@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -175,8 +176,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
