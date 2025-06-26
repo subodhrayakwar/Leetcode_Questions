@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -171,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Simulation
 |  |
