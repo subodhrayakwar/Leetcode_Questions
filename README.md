@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
