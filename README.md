@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0820-find-eventual-safe-states](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
