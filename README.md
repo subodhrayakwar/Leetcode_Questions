@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
