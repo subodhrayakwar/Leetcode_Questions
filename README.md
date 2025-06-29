@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
