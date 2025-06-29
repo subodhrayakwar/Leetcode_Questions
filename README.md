@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
