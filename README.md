@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
