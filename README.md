@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0383-ransom-note](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0409-longest-palindrome) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
