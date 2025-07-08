@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0409-longest-palindrome) |
+| [0481-magical-string](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0481-magical-string) |
 | [0504-base-7](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0504-base-7) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0481-magical-string](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
