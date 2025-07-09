@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
