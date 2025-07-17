@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0409-longest-palindrome) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0768-partition-labels) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
