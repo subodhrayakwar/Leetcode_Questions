@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
