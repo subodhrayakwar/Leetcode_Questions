@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0392-is-subsequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0257-binary-tree-paths) |
 | [0820-find-eventual-safe-states](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
@@ -338,15 +340,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0257-binary-tree-paths) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
