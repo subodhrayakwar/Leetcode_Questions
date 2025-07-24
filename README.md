@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0257-binary-tree-paths) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
