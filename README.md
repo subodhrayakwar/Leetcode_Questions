@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
