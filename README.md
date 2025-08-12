@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0504-base-7) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
