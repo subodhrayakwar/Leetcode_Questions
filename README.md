@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0504-base-7) |
 | [0797-rabbits-in-forest](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0867-new-21-game](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0868-push-dominoes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
