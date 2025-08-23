@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Math
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/0289-game-of-life) |
 | [1396-count-servers-that-communicate](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Graph
 |  |
