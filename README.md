@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subodhrayakwar/Leetcode_Questions/tree/master/3637-count-number-of-balanced-permutations) |
